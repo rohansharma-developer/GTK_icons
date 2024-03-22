@@ -25,7 +25,7 @@ git clone https://github.com/rohansharma-developer/GTK_icons.git
 ```
 Copy all the contents of the folder to `.themes`
 ``` bash
-cp -r ./GTK_Themes/* ./
+cp -r ./GTK_icons/* ./
 ```
 # Usage
 Open `gnome-tweaks` from your app menu. Choose any theme of your choice. Enjoy!
